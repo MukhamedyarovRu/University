@@ -1,0 +1,175 @@
+															(*Задание 1 *)
+n = Input[]; 
+For[i = 0, i < n,i++,a = Input[]; If[a > 170,Print["Ваш рост выше среднего"], If[a < 160, Print["Ваш рост ниже среднего"],Print["У Вас средний рост"]]]] 
+Ваш рост выше среднего
+Ваш рост ниже среднего
+															(*Задание 3 *)
+
+
+Plot[Which[1<x<2, -1/x, 2 < x < 3,0.5, 3< x<6,Sin[x]],{x,1,6}] 
+
+
+GraphicsBox[{{}, {}, 
+{RGBColor[0.368417, 0.506779, 0.709798], AbsoluteThickness[1.6], Opacity[1.], LineBox[CompressedData["
+1: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
+3ZDub6EQv7+yc2iAU4f+D43/PDg=
+"]]}},
+AspectRatio->0.6180339887498948,
+Axes->{True, True},
+AxesLabel->{None, None},
+AxesOrigin->{1., 0},
+DisplayFunction->Identity,
+Frame->{{False, False}, {False, False}},
+FrameLabel->{{None, None}, {None, None}},
+FrameTicks->{{Automatic, Automatic}, {Automatic, Automatic}},
+GridLines->{None, None},
+GridLinesStyle->Directive[GrayLevel[0.5, 0.4]],
+Method->{"DefaultBoundaryStyle" -> Automatic, "DefaultMeshStyle" -> AbsolutePointSize[6], "ScalingFunctions" -> None},
+PlotRange->{{1, 6}, {-0.9999998979591942, 0.5}},
+PlotRangeClipping->True,
+PlotRangePadding->{{Scaled[0.02], Scaled[0.02]}, {Scaled[0.05], Scaled[0.05]}},
+Ticks->{Automatic, Automatic}]
+
+															(*Задание 5*)
+Sum[(7-x)/(x^3 + 2*x),{x,2,8}]
+
+269443/451440
+															(*Задание 4*)
+c=Input[начало отрезка];
+d=Input[конец отрезка];
+h=Input[шаг];
+x=Input[Введите значение ];
+ma=-2000;mi=2000;
+Do[a=Sin[x]+x*x+7;
+Which[a>=ma,ma=a,a<mi,mi=a],{i,c,d,h}]
+Print[ma," ",mi];
+-2000 2000
+Clear[x]
+Clear[f]
+
+If[f[x]-f[-x] =2*f[x],Print[Нечетная], Print [Функция имеет общий вид]]
+
+f1[x]:= x^2;
+If[f1[x]-f1[-x]=0,Print["Четная"]]
+Set::write: Tag Plus in $Canceled^2-f1[-$Canceled] is Protected. >>
+If[0,Print[Четная]]
+Simplify[f[x]]
+$Canceled^2
+
+
+a = Input[];b = Input[]; h = Input[];
+n = Sin[x] + x^2 + 7;
+Do[Print["При x = ",x,"значение функции равно =  ",N[F = n]],{x,a,b,h}];
+
+При x = 0значение функции равно =  7. +$Canceled^2+Sin[$Canceled]
+При x = 1значение функции равно =  7. +$Canceled^2+Sin[$Canceled]
+При x = 2значение функции равно =  7. +$Canceled^2+Sin[$Canceled]
+При x = 3значение функции равно =  7. +$Canceled^2+Sin[$Canceled]
+При x = 4значение функции равно =  7. +$Canceled^2+Sin[$Canceled]
+При x = 5значение функции равно =  7. +$Canceled^2+Sin[$Canceled]

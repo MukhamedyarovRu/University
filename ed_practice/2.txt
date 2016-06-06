@@ -1,0 +1,57 @@
+y:=8*a*x^3-12*(a+3)*x^2+6*(a+6)*x+3*(a-3)
+b1=D[y,x]
+b2=Solve[b1==0,x]
+b3 = ReplaceAll[y,b2];
+b4 =FullSimplify[b3];
+b5 = Apply[Times,b4]
+Reduce[b5<0,a]
+6 (6+a)-24 (3+a) x+24 a x^2
+{{x->1/2},{x->(6+a)/(2 a)}}
+(16 (-27+a^3))/a
+0<a<3
+y:=8*a*x^3-12*(a+3)*x^2+6*(a+6)*x+3*(a-3)
+b1=D[y,x]
+b2=Solve[b1==0,x] 
+b3=y/.b2
+b4=Simplify[b3]
+b5=Times@@b4
+Reduce[b5<0,a]
+6 (6+a)-24 (3+a) x+24 a x^2
+{{x->1/2},{x->(6+a)/(2 a)}}
+{3 (-3+a)+a-3 (3+a)+3 (6+a),3 (-3+a)+(3 (6+a)^2)/a-(3 (3+a) (6+a)^2)/a^2+(6+a)^3/a^2}
+{4 a,(4 (-27+a^3))/a^2}
+(16 (-27+a^3))/a
+0<a<3
+y:=8*a*x^3-12*(a+3)*x^2+6*(a+6)*x+3*(a-3)
+Reduce[Times@@Simplify[y/.Solve[D[y,x]==0,x]]<0,a]
+0<a<3
+Ine:=(b1=D[y,x]; 
+b2=Solve[b1==0,x]; 
+b3=y/.b2; 
+b4=FullSimplify[b3];
+b5=Times@@b4; Reduce[b5<0,a])
+
+y:=8*a*x^3-12*(a+3)*x^2+6*(a+6)*x+3*(a-3); Ine
+0<a<3
+y:=(a+1)*x^3-12*a*x^2+9*(a+6)*x+3*(a-1); N[Ine, 3]
+a<-1.00||-1.00<a<-0.668||a>3.05
+Ineq[y_]:=(b1=D[y,x];
+b2=Solve[b1==0,x];
+b3=y/.b2;
+b4=FullSimplify[b3];
+b5=Times@@b4;
+Reduce[b5<0,a]) 
+g:=8*a*x^3-12*(a+3)*x^2+6*(a+6)*x+9*(a-3)
+Ineq[g] 
+gg:=8*a*x^3-12*(a+3)*x^2+6*(a+6)*x+3*(a-3)
+Ineq[gg] 
+9/5<a<3
+0<a<3
+Remove["Global`*"]
+{b1,b2,b3}=Range[3]
+Inequ[y_]:=Module[{b1,b2,b3,b4,b5},(b1=D[y,x];b2=Solve[b1==0,x];b3=y/.b2;b4=FullSimplify[b3];b5=Times@@b4;Reduce[b5<0,a])]
+y:=8*a*x^3-12*(a+3)*x^2+6*(a+6)*x+3*(a-3);Inequ[y]
+{b1,b2,b3,b4,b5}
+{1,2,3}
+0<a<3
+{1,2,3,{4 a,(4 (-27+a^3))/a^2},(16 (-27+a^3))/a}

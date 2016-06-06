@@ -1,0 +1,43 @@
+c:\users\summy\documents\visual studio 2013\Projects\лаб3\лаб3\bin\Debug\лаб3.exe.config
+E:\лаба 3\лаб3\лаб3\bin\Debug\лаб3.exe.config
+E:\лаба 3\лаб3\лаб3\obj\Debug\лаб3.csprojResolveAssemblyReference.cache
+E:\лаба 3\лаб3\лаб3\obj\Debug\лаб3.Form1.resources
+E:\лаба 3\лаб3\лаб3\obj\Debug\лаб3.Form2.resources
+E:\лаба 3\лаб3\лаб3\obj\Debug\лаб3.Properties.Resources.resources
+E:\лаба 3\лаб3\лаб3\obj\Debug\лаб3.csproj.GenerateResource.Cache
+I:\лаба 3\лаб3\лаб3\bin\Debug\лаб3.exe.config
+I:\лаба 3\лаб3\лаб3\obj\Debug\лаб3.csprojResolveAssemblyReference.cache
+I:\лаба 3\лаб3\лаб3\obj\Debug\лаб3.Form1.resources
+I:\лаба 3\лаб3\лаб3\obj\Debug\лаб3.Form2.resources
+I:\лаба 3\лаб3\лаб3\obj\Debug\лаб3.Properties.Resources.resources
+I:\лаба 3\лаб3\лаб3\obj\Debug\лаб3.csproj.GenerateResource.Cache
+I:\лаба 3\лаб3\лаб3\bin\Debug\лаб3.exe
+I:\лаба 3\лаб3\лаб3\bin\Debug\лаб3.pdb
+I:\лаба 3\лаб3\лаб3\obj\Debug\лаб3.exe
+I:\лаба 3\лаб3\лаб3\obj\Debug\лаб3.pdb
+D:\лаба 3\лаб3\лаб3\bin\Debug\лаб3.exe.config
+D:\лаба 3\лаб3\лаб3\obj\Debug\лаб3.exe
+D:\лаба 3\лаб3\лаб3\obj\Debug\лаб3.pdb
+C:\Users\Руслан\Desktop\ex\лаб3\bin\Debug\лаб3.exe.config
+C:\Users\Руслан\Desktop\ex\лаб3\obj\Debug\лаб3.exe
+C:\Users\Руслан\Desktop\ex\лаб3\obj\Debug\лаб3.pdb
+C:\Users\Руслан\Desktop\ex\лаб3\bin\Debug\лаб3.exe
+C:\Users\Руслан\Desktop\ex\лаб3\bin\Debug\лаб3.pdb
+C:\Users\Руслан\Desktop\ex\лаб3\obj\Debug\лаб3.csprojResolveAssemblyReference.cache
+C:\Users\Руслан\Desktop\ex\лаб3\obj\Debug\лаб3.Form1.resources
+C:\Users\Руслан\Desktop\ex\лаб3\obj\Debug\лаб3.Form2.resources
+C:\Users\Руслан\Desktop\ex\лаб3\obj\Debug\лаб3.Properties.Resources.resources
+C:\Users\Руслан\Desktop\ex\лаб3\obj\Debug\лаб3.csproj.GenerateResource.Cache
+C:\Users\Руслан\Desktop\study_files\ex\лаб3\bin\Debug\лаб3.exe.config
+C:\Users\Руслан\Desktop\study_files\ex\лаб3\obj\Debug\лаб3.exe
+C:\Users\Руслан\Desktop\study_files\ex\лаб3\obj\Debug\лаб3.pdb
+C:\Users\Руслан\Desktop\tp\ex\лаб3\bin\Debug\лаб3.exe.config
+C:\Users\Руслан\Desktop\tp\ex\лаб3\obj\Debug\лаб3.exe
+C:\Users\Руслан\Desktop\tp\ex\лаб3\obj\Debug\лаб3.pdb
+C:\Users\Руслан\Desktop\tp\ex\лаб3\bin\Debug\лаб3.exe
+C:\Users\Руслан\Desktop\tp\ex\лаб3\bin\Debug\лаб3.pdb
+C:\Users\Руслан\Desktop\tp\ex\лаб3\obj\Debug\лаб3.csprojResolveAssemblyReference.cache
+C:\Users\Руслан\Desktop\tp\ex\лаб3\obj\Debug\лаб3.Form1.resources
+C:\Users\Руслан\Desktop\tp\ex\лаб3\obj\Debug\лаб3.Form2.resources
+C:\Users\Руслан\Desktop\tp\ex\лаб3\obj\Debug\лаб3.Properties.Resources.resources
+C:\Users\Руслан\Desktop\tp\ex\лаб3\obj\Debug\лаб3.csproj.GenerateResource.Cache

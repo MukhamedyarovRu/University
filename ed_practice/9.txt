@@ -1,0 +1,62 @@
+33:
+has[k_]:=(n=k;While[n!= 0,
+If[Mod[n,10]==9,Break[]];n=Floor[n/10]];
+n!=0)
+{has[31192],has[765],has[3^56]}
+{True,False,False}
+36:
+Sq[x_]:=If[x<0,Throw["ошибка"],Sqrt[x]]
+Catch[Sq[5]+9]
+9+Sqrt[5]
+Catch[Sq[-5]+9]
+ошибка
+gg[n_Integer]:=Which[n<7,n^n,
+7<= n<= 10,Throw[n^3],
+n>10,Throw[n]]
+{Catch[gg[3]],Catch[gg[7]],Catch[gg[20]]}
+{27,343,20}
+41:
+Clear[a,b,t]; a=7;
+Module[{a=2,b},b=a+1;t=a^2+b^2]
+13
+a
+7
+Clear[g,a,t,n,b]; a=5; t=6;
+g[n_]:=Module[{a=1,t=b+a},t^n]
+{a,t,g[3],Expand[g[2]]}
+{5,6,(5+b)^3,25+10 b+b^2}
+d[a_]:=Module[{w=a},w=w/(1+a)]
+Clear[b]; {d[b],d[d[b]]}
+{b/(1+b),b/((1+b) (1+b/(1+b)))}
+ggg[k_]:=Module[{qwe,n},qwe[n_]:=n^2;
+
+UnderoverscriptBox[∏, s = 1, k](1 + qwe[s])]
+{ggg[2],ggg[10]}
+{10,44019244100000}
+42:
+pairs[v_]:=Module[{li=v,len=Length[v],ot={}},
+Do[sp={li[[k]],#}&/@Drop[li,k];
+AppendTo[ot,sp],{k,len-1}];Flatten[ot,1]]
+Clear[a,b,c,d]; x={a,b,c,d};
+pairs[x]
+{{a,b},{a,c},{a,d},{b,c},{b,d},{c,d}}
+43:
+x^2+x+1;
+Module[{x=2},%]
+1+x+x^2
+Block[{x=2},%]
+7
+Clear[a,b];x={a,b};
+z[p_]:=Block[{x=5,y=p+x^2},y]
+z[2]
+{2+a^2,2+b^2}
+x=.;z[2]
+27
+44:
+x=50;y=100;
+With[{x=2,y=a},z=x+y];
+{x,y,z}
+{50,100,2+a}
+b=55
+2+x+y/.{x+y-> b}
+57

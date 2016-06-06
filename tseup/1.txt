@@ -1,0 +1,13 @@
+n = 5; x = Pi/3; i=1; sum =0;
+Do[Print[sum = Sin[x^i] + sum],{i,n}]
+
+n=Input[];i=1;k=10;s=10;
+While[i<n,k=k*1.1;s=s+k;i=i+1;Print[]];
+Print[s];
+
+
+
+
+
+
+

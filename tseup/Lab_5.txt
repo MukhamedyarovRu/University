@@ -1,0 +1,5 @@
+In[14]:=  Manipulate[Plot[a* Sin [x]^2+ b*x+ c,{x,-10,10},PlotRange->{-10,10}], {a,0,4},{b,0,4},{c,0,4},{d,0,4}]
+
+In[15]:=  Manipulate[Plot[a* Sin [x]^2+ b*x+ c,{x,-10,10},PlotRange->{-10,10}], {a,{0,1,2,3}},{b,{0,1,2,3}},{c,{0,1,2,3}},{d,{0,1,2,3}}]
+
+In[30]:=  Manipulate[Show[Plot[{0.5 * x^2,-x},{x,-10,10}, Filling -> {1 -> {2}}],Graphics[Point[{x,y}]]],{x},{y}]

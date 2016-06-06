@@ -1,0 +1,25 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Snake\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+C:\Users\Руслан\Desktop\study_files\ТП\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Руслан\Desktop\study_files\ТП\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Руслан\Desktop\study_files\ТП\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Руслан\Desktop\study_files\ТП\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Руслан\Desktop\study_files\ТП\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Руслан\Desktop\study_files\ТП\Snake\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\Руслан\Desktop\study_files\ТП\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Руслан\Desktop\study_files\ТП\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+C:\Users\Руслан\Desktop\study_files\ТП\Snake\Snake\obj\Debug\Snake.Form2.resources
+C:\Users\Руслан\Desktop\tp\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Руслан\Desktop\tp\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Руслан\Desktop\tp\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Руслан\Desktop\tp\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Руслан\Desktop\tp\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Руслан\Desktop\tp\Snake\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\Руслан\Desktop\tp\Snake\Snake\obj\Debug\Snake.Form2.resources
+C:\Users\Руслан\Desktop\tp\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Руслан\Desktop\tp\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache

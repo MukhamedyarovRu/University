@@ -1,0 +1,9 @@
+/home/fsociety/Documents/Github/tp/Snake/Snake/obj/Debug/Snake.Form1.resources
+/home/fsociety/Documents/Github/tp/Snake/Snake/obj/Debug/Snake.Form2.resources
+/home/fsociety/Documents/Github/tp/Snake/Snake/obj/Debug/Snake.Properties.Resources.resources
+/home/fsociety/Documents/Github/tp/Snake/Snake/bin/Debug/Snake.exe.mdb
+/home/fsociety/Documents/Github/tp/Snake/Snake/bin/Debug/Snake.pdb
+/home/fsociety/Documents/Github/tp/Snake/Snake/bin/Debug/Snake.exe
+/home/fsociety/Documents/Github/tp/Snake/Snake/obj/Debug/Snake.exe
+/home/fsociety/Documents/Github/tp/Snake/Snake/obj/Debug/Snake.exe.mdb
+/home/fsociety/Documents/Github/tp/Snake/Snake/obj/Debug/Snake.pdb

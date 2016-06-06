@@ -1,0 +1,121 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 10.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      3409,        112]
+NotebookOptionsPosition[      2960,         91]
+NotebookOutlinePosition[      3298,        106]
+CellTagsIndexPosition[      3255,        103]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"n", " ", "=", " ", "5"}], ";", " ", 
+  RowBox[{"x", " ", "=", " ", 
+   RowBox[{"Pi", "/", "3"}]}], ";", " ", 
+  RowBox[{"i", "=", "1"}], ";", " ", 
+  RowBox[{"sum", " ", "=", "0"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{"Do", "[", 
+  RowBox[{
+   RowBox[{"Print", "[", 
+    RowBox[{"sum", " ", "=", " ", 
+     RowBox[{
+      RowBox[{"Sin", "[", 
+       RowBox[{"x", "^", "i"}], "]"}], " ", "+", " ", "sum"}]}], "]"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"i", ",", "n"}], "}"}]}], "]"}]}], "Input",
+ CellChangeTimes->{{3.673201840570799*^9, 3.673201893471246*^9}, {
+   3.67320194197155*^9, 3.673202015765718*^9}, 3.6732020712009363`*^9, {
+   3.6732021786104507`*^9, 3.6732022059487867`*^9}, {3.6732022748825397`*^9, 
+   3.6732023160596423`*^9}, {3.6732023861602497`*^9, 3.673202409218532*^9}, {
+   3.6732024598391113`*^9, 3.673202493998295*^9}}],
+
+Cell[BoxData[""], "Input",
+ CellChangeTimes->{{3.6732020260529995`*^9, 3.673202026687448*^9}}],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"n", "=", 
+   RowBox[{"Input", "[", "]"}]}], ";", 
+  RowBox[{"i", "=", "1"}], ";", 
+  RowBox[{"k", "=", "10"}], ";", 
+  RowBox[{"s", "=", "10"}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{"While", "[", 
+   RowBox[{
+    RowBox[{"i", "<", "n"}], ",", 
+    RowBox[{
+     RowBox[{"k", "=", 
+      RowBox[{"k", "*", "1.1"}]}], ";", 
+     RowBox[{"s", "=", 
+      RowBox[{"s", "+", "k"}]}], ";", 
+     RowBox[{"i", "=", 
+      RowBox[{"i", "+", "1"}]}], ";", 
+     RowBox[{"Print", "[", "]"}]}]}], "]"}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{"Print", "[", "s", "]"}], ";"}]}], "Input",
+ CellChangeTimes->{{3.673202525303438*^9, 3.673202525305439*^9}}],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[""], "Print",
+ GeneratedCell->False,
+ CellAutoOverwrite->False,
+ CellChangeTimes->{3.6732025328107257`*^9, 3.673203496936221*^9, 
+  3.6742347161431637`*^9}],
+
+Cell[BoxData[
+ RowBox[{"\[IndentingNewLine]", "\[LineSeparator]", "\[LineSeparator]", 
+  "\[LineSeparator]", "\[LineSeparator]", "\[LineSeparator]"}]], "Print",
+ GeneratedCell->False,
+ CellAutoOverwrite->False,
+ CellChangeTimes->{
+  3.6732025329137993`*^9, {3.673203167588083*^9, 3.6732032035104914`*^9}, {
+   3.67320324487008*^9, 3.673203258572771*^9}, {3.67320331298825*^9, 
+   3.6732033600905666`*^9}, {3.6732033970423107`*^9, 3.67320340681122*^9}, {
+   3.6732034432142224`*^9, 3.6732035249766064`*^9}}]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{1366, 713},
+WindowMargins->{{-1, Automatic}, {Automatic, -1}},
+FrontEndVersion->"10.0 for Linux x86 (64-bit) (December 4, 2014)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 880, 20, 55, "Input"],
+Cell[1441, 42, 94, 1, 32, "Input"],
+Cell[CellGroupData[{
+Cell[1560, 47, 669, 21, 77, "Input"],
+Cell[CellGroupData[{
+Cell[2254, 72, 169, 4, 23, "Print"],
+Cell[2426, 78, 506, 9, 138, "Print"]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
