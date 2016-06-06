@@ -1,0 +1,18 @@
+c:\users\юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\bin\Debug\xml_writer.exe.config
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\bin\Debug\xml_writer.exe
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\bin\Debug\xml_writer.pdb
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\obj\Debug\xml_writer.csprojResolveAssemblyReference.cache
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\obj\Debug\xml_writer.Form1.resources
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\obj\Debug\xml_writer.Properties.Resources.resources
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\obj\Debug\xml_writer.csproj.GenerateResource.Cache
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\obj\Debug\xml_writer.exe
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\obj\Debug\xml_writer.pdb
+C:\Users\Руслан\Desktop\asdasdsad\xml_writer\bin\Debug\xml_writer.exe.config
+C:\Users\Руслан\Desktop\asdasdsad\xml_writer\obj\Debug\xml_writer.exe
+C:\Users\Руслан\Desktop\asdasdsad\xml_writer\obj\Debug\xml_writer.pdb
+C:\Users\Руслан\Desktop\asdasdsad\xml_writer\bin\Debug\xml_writer.exe
+C:\Users\Руслан\Desktop\asdasdsad\xml_writer\bin\Debug\xml_writer.pdb
+C:\Users\Руслан\Desktop\asdasdsad\xml_writer\obj\Debug\xml_writer.csprojResolveAssemblyReference.cache
+C:\Users\Руслан\Desktop\asdasdsad\xml_writer\obj\Debug\xml_writer.Form1.resources
+C:\Users\Руслан\Desktop\asdasdsad\xml_writer\obj\Debug\xml_writer.Properties.Resources.resources
+C:\Users\Руслан\Desktop\asdasdsad\xml_writer\obj\Debug\xml_writer.csproj.GenerateResource.Cache
